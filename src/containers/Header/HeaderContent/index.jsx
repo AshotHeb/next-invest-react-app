@@ -14,7 +14,7 @@ export const HeaderContent = () => {
                         Browse vetted investment offerings in communities all over the US.
                     </p>
 
-                    <button>
+                    <button className="header-content-info-button">
                         GET STARTED
                     </button>
                 </div>
