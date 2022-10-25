@@ -1,3 +1,4 @@
+import { Button } from '../../../components/Button'
 import './styles.scss'
 
 export const HeaderContent = () => {
@@ -14,9 +15,7 @@ export const HeaderContent = () => {
                         Browse vetted investment offerings in communities all over the US.
                     </p>
 
-                    <button className="header-content-info-button">
-                        GET STARTED
-                    </button>
+                    <Button>GET STARTED </Button>
                 </div>
             </div>
         </div>

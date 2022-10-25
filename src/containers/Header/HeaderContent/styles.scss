@@ -1,7 +1,7 @@
 .header-content{
     height: 780px;
     width: 100%;
-    background:url('../../../../public/images/header-content-bg.png');
+    background:url(../../../../public/images/header-content-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,11 +41,4 @@ font-size: 24px;
 line-height: 32px;
 color: #FFFFFF;
 max-width: 470px ;
-
-
-}
-.header-content-info-button{
-   background-color: #128C76;
-   
-    width:270px
 }
