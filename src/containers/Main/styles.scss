@@ -1,13 +1,19 @@
 .main-div{
-    height:900px;
-    width: auto;
-    background:white
-    
+    height:auto;
+    width:auto;
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-size: contain;
 
 }
+
 .main-heading{
     display: flex;
     flex-direction: column;
+    width: 1920px;
+    background-repeat: no-repeat;
+    background-size: contain;
    
 }
 .h2{
@@ -40,3 +46,26 @@ font-family: Josefin Sans;
 margin-left: 650px;
 margin-bottom: 60px;
 }
+
+.card-wrapper{
+    display: flex;
+    height: 600px;
+    width: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+    gap: 30px;
+    
+}
+ .main-button{
+    padding-top: 440px;
+    padding-bottom: 182px;
+    display: flex;
+    justify-content: center;
+
+ }
+ 
+ 
+
+ 

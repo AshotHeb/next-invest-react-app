@@ -1,20 +1,82 @@
+
 .card-div{
-    width: 375px;
-    height: 240px;
-}
+        width:  370px;
+        height: 480px;
+
+        
+        }
+
+.main-img{
+        width: 370px;
+        height: 240px;
+         }
+     
+
+
 .card-name{
 font-family: Josefin Sans;
-font-weight: bold;
-font-size:24px;
+font-weight: Bold;
+font-size: 24px;
+line-height: 32px;
+line-height: 133%;
+text-align:left;
+vertical-align: top;
+margin-top:24px;
 
-
-}
+ }
 .card-location{
+    color:#999999;
+    width: 322px;
+    height: 24px;
+    font-family: Josefin Sans;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 24px;
+    line-height:150%;
+    text-align:left
+    ;
+
+    
 
 }
 .card-description{
+width: 322px;
+height: 48px;
+color: #333333;
+font-family: Josefin Sans;
+font-style: Regular;
+font-size: 16px;
+line-height: 24px;
+line-height: 150%;
+text-align: Left;
+vertical-align: Top;
+
 
 }
-.card-range{
 
+.cont{
+display: flex;
+flex-direction: row;
+margin-top: 32px;
+}
+/*.full{
+width: 182px;
+height:8px;
+color: #128C76;
+
+}
+
+/*.empety{
+width: 322px;
+height: 8px;
+color:#ECECEC;
+
+}*/
+.card-range{
+    width: 322px;
+    height: 24px;
+    font-family: Josefin Sans;
+    line-height: 24px;
+    text-align: left;
+    
 }
