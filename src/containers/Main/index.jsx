@@ -23,7 +23,6 @@ export const Main=()=>{
         />
         
         <Card  
-       
         name={"Oxalis"}
         location={"Brooklyn, NY"}
         description={"A recognized leader in language immersion & early education, opening second school."}
@@ -39,7 +38,7 @@ export const Main=()=>{
         />
         
         <Card  
-        img={"/images/Img(3).png"}
+        img={"/images/Img-4.png"}
         name={"Oxalis"}
         location={"Brooklyn, NY"}
         description={"A recognized leader in language immersion & early education, opening second school."}
