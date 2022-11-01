@@ -1,14 +1,14 @@
 import { Header } from "./containers/Header";
 import { Main } from "./containers/Main";
-import {Investors} from "./containers/Investors"
 
+import { Cta } from "./containers/Cta";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Main/>
-      <Investors/>
+      <Main />
+      <Cta />
     </div>
   );
 }

@@ -10,7 +10,8 @@ export const Card=(props)=>{
         <p className="card-location">{location}</p>
         <p className="card-description">{description}</p>
         <div className="cont">{cont}
-        
+        <div className="green"></div>
+        <div className="grey"></div>
         </div>
         <p className="card-range">{range}</p>   
     </div>

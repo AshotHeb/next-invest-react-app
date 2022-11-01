@@ -1,0 +1,39 @@
+.cta-div {
+  display: flex;
+  padding-top: 179px;
+  padding-left: 150px;
+
+}
+.cta-first-div {
+  display: flex;
+  flex-direction: column;
+}
+.p1 {
+  width: 570px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+  color: #333333;
+}
+
+.p2 {
+  width: 570px;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  color: #999999;
+}
+.cta-button{
+   margin:0%;
+}
+.cta-second-div {
+background-image: url(../../../public/images/Shape.png);
+position: relative;
+}
+.cta-img {
+}
+

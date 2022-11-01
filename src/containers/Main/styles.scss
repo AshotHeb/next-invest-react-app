@@ -1,71 +1,44 @@
-.main-div{
-    height:auto;
-    width:auto;
+.main-div {
+    padding:160px 0px;
+}
+
+.main-heading-section{
+    padding-top:160px;
     display: flex;
     flex-direction: column;
-    background-repeat: no-repeat;
-    background-size: contain;
-
+    align-items: center;
+    gap: 24px;
+}
+.main-heading-section-h2 {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    text-align: center;
+    color: #333333;
 }
 
-.main-heading{
+.main-heading-section-p {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #999999;
+    max-width: 770px;
+}
+.card-wrapper {
     display: flex;
-    flex-direction: column;
-    width: 1920px;
-    background-repeat: no-repeat;
-    background-size: contain;
-   
-}
-.h2{
-font-size:  48px;
-margin-top: 160px;
-margin-bottom: 24px;
-height: 64px;
-width: 770px;
-margin-left: 457px;
-font-family: Josefin Sans;
-
-}
-.p{
-height: 30px;
-width: 770px;
-font-size: 24px;
-margin-left: 457px;
-color: #999999;
-font-family: Josefin Sans;
-
-
-}
-.p2{
-height: 30px;
-width: 770px;
-font-size: 24px;
-margin-left: 457px;
-color: #999999;
-font-family: Josefin Sans;
-margin-left: 650px;
-margin-bottom: 60px;
-}
-
-.card-wrapper{
-    display: flex;
-    height: 600px;
-    width: auto;
-    flex-direction: row;
     flex-wrap: wrap;
-    background-repeat: no-repeat;
-    margin-left: 200px;
+    justify-content: center;
     gap: 30px;
-    
+    max-width: 1240px;
+    margin: 60px auto 0;
 }
  .main-button{
-    padding-top: 440px;
-    padding-bottom: 182px;
     display: flex;
     justify-content: center;
-
+    padding-top:104px;
  }
- 
- 
-
- 
