@@ -12,13 +12,13 @@ export const Cta = () => {
           raise money from thousands of local investors.
         </p>
 
-        <div className="cta-button">
-          <Button>APPLY ONLINE</Button>
-        </div>
+        
+          <Button uniqueClassName ="cta-button">APPLY ONLINE</Button>
+        
       </div>
       <div className="cta-second-div">
       <div className="cta-img"></div>
-      <img src="Shape.png" alt="img" />
+      
     </div>
     </div>
   );

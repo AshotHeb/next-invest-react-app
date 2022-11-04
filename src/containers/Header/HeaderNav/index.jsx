@@ -17,8 +17,8 @@ export const HeaderNav = () => {
                     <li className="nav-item">About us</li>
                 </ul>
 
-                <Button>Login</Button>
-                <Button
+                <Button uniqueClassName ="login-button">Login</Button>
+                <Button uniqueClassName ="register-button"
                     outline
                     color="red"
                 >

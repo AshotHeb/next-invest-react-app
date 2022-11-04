@@ -3,14 +3,13 @@
     height: 90px;
     background-color: #fff;
     display: flex;
+    align-items: center;
 }
 
 .next-invest {
     margin-left: 300px;
     width: 181px;
     height: 24px;
-    margin-top: 33px;
-    top: 33px;
     font-family: "Josefin Sans";
     font-style: normal;
     font-weight: 700;
@@ -102,3 +101,12 @@
         margin-left:36px;
     }
 }
+ 
+ .login-button{
+    margin-left:40px;
+    
+ }
+ .register-button{
+    margin-left:20px;
+   
+ }
