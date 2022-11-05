@@ -7,13 +7,13 @@ export const Footer = () => {
         <p className="p1">Copyright © 2020. LogoIpsum. All rights reserved.</p>
 
         <div className="form-div">
+        <div className="input-div">
           <label className="label">Subscribe to our newsletter</label>
-           <div className="input-div">
            <input 
             type="text"
             className="email-address"
             placeholder="Email  address"/>
-          <img src="/images/Submit.png" alt="" srcset="" />
+          <img src="/images/Submit.png" alt="img"  />
           </div>
         </div>
       </div>

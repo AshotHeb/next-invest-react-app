@@ -38,20 +38,21 @@
 .form-div {
   display: flex;
   flex-direction: column;
-  margin-top: 31px;
+  margin-top: 300px;
+  
 }
 
 .email-address {
   width: 370px;
   height: 51px;
- margin-top: 250px;
- font-family: 'Josefin Sans';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-color: #333333;
-border: none;
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333333;
+  border: none;
+  margin-top: 20px;
 }
 .div-2 {
   display: flex;

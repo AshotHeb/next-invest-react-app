@@ -4,10 +4,10 @@ export const Cta = () => {
   return (
     <div className="cta-div">
       <div className="cta-first-div">
-        <p className="p1">
+        <p className="p-1">
           Looking to raise capital for your growing business?
         </p>
-        <p className="p2">
+        <p className="p-2">
           Whether expanding or opening a brand-new concept, we make it easy to
           raise money from thousands of local investors.
         </p>
@@ -17,7 +17,8 @@ export const Cta = () => {
         
       </div>
       <div className="cta-second-div">
-      <div className="cta-img"></div>
+        <img src="Images/cta.png" alt="img" className="cta-img"/>
+      <img src="Images/Shape.png" alt="img" className="shape-img"/>
       
     </div>
     </div>

@@ -1,24 +1,29 @@
 .cta-div {
   display: flex;
-  padding-top: 100px;
   padding-left: 150px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+ }
 
-}
-.cta-first-div {
+ .cta-first-div {
   display: flex;
   flex-direction: column;
-}
-.p1 {
-  width: 570px;
-  font-family: "Josefin Sans";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 48px;
-  line-height: 64px;
-  color: #333333;
+  padding-bottom: 80px;
+ }
+
+.p-1 {
+width: 570px;
+height: 192px;
+font-family: 'Josefin Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+color: #333333;
+
 }
 
-.p2 {
+ .p-2{
   width: 570px;
   font-family: "Josefin Sans";
   font-style: normal;
@@ -26,12 +31,22 @@
   font-size: 24px;
   line-height: 32px;
   color: #999999;
+  margin-bottom: 30px;
+
+}
+.cta-button {
+align-items: center;
+width: 270px;
+height: 70px;
+background: #128c76;
 }
 
 .cta-second-div {
-
-position: relative;
+ 
 }
-.cta-img {
-}
+.shape-img{
+width: 306px;
+height: 301px;
 
+
+}
