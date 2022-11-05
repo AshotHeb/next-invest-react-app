@@ -23,8 +23,8 @@ export const Main = () => {
           description={
             "A recognized leader in language immersion & early education, opening second school."
           }
-        
-          range={"$574,920 raised of $1,000,000"}
+          maxRange={1000000}
+          range={574920}
         />
 
         <Card
@@ -33,7 +33,10 @@ export const Main = () => {
           description={
             "A recognized leader in language immersion & early education, opening second school."
           }
-          range={"$574,920 raised of $1,000,000"}
+          range={349909}
+          maxRange={1000000}
+
+
         />
 
         <Card
@@ -43,7 +46,10 @@ export const Main = () => {
           description={
             "A recognized leader in language immersion & early education, opening second school."
           }
-          range={"$574,920 raised of $1,000,000"}
+          range={111000}
+          maxRange={1000000}
+
+
         />
 
         <Card
@@ -53,7 +59,10 @@ export const Main = () => {
           description={
             "A recognized leader in language immersion & early education, opening second school."
           }
-          range={"$574,920 raised of $1,000,000"}
+          range={888666}
+          maxRange={1000000}
+
+
         />
 
         <Card
@@ -63,7 +72,10 @@ export const Main = () => {
           description={
             "A recognized leader in language immersion & early education, opening second school."
           }
-          range={"$574,920 raised of $1,000,000"}
+          range={574920}
+          maxRange={1000000}
+
+
         />
 
         <Card
@@ -73,7 +85,10 @@ export const Main = () => {
           description={
             "A recognized leader in language immersion & early education, opening second school."
           }
-          range={"$574,920 raised of $1,000,000"}
+          range={274920}
+          maxRange={1000000}
+
+
         />
       </div>
       <div className="main-button">

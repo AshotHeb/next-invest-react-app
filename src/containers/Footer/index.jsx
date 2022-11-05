@@ -3,8 +3,10 @@ export const Footer = () => {
   return (
     <div className="footer-div">
       <div className="div-1">
-        <h2 className="h2">NEXT INVEST</h2>
+      <div>
+      <h2 className="h2">NEXT INVEST</h2>
         <p className="p1">Copyright © 2020. LogoIpsum. All rights reserved.</p>
+      </div>
 
         <div className="form-div">
         <div className="input-div">

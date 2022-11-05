@@ -17,9 +17,7 @@ export const Cta = () => {
         
       </div>
       <div className="cta-second-div">
-        <img src="Images/cta.png" alt="img" className="cta-img"/>
-      <img src="Images/Shape.png" alt="img" className="shape-img"/>
-      
+        <img src="Images/cta.png" alt="img" className="cta-img"/>      
     </div>
     </div>
   );

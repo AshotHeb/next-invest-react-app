@@ -1,8 +1,16 @@
 .cta-div {
   display: flex;
-  padding-left: 150px;
+    justify-content: center;
+    gap: 130px;
+    padding-top: 80px;
+    padding-bottom: 80px;
   padding-top: 80px;
   padding-bottom: 80px;
+
+
+  background: url(../../../public/images/Shape.png);
+  background-repeat: no-repeat;
+  background-position: 100% 39%;
  }
 
  .cta-first-div {
@@ -42,7 +50,7 @@ background: #128c76;
 }
 
 .cta-second-div {
- 
+
 }
 .shape-img{
 width: 306px;
