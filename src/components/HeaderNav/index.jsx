@@ -1,9 +1,10 @@
 import "./style.scss"
+import "./style.scss"
 export const HeaderNav=()=>{
     return (
-        <div>
+        <div className="header-nav-div">
             <img src="images/Logo.png" alt="img" />
-            <ul className="ul">Lawliet
+                    <ul className="ul">Lawliet
                 <li className="li">CONTACT</li>
                 <li className="li"> TESTIMONIALS</li>
                 <li className="li">ABOUT</li>

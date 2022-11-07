@@ -3,7 +3,7 @@ import { HeaderNav } from "../../components/HeaderNav";
 import { HeaderInfo } from "../../components/HeaderInfo";
 export const Header = () => {
   return (
-    <div>
+    <div className="header-div">
    
       <HeaderNav/>
       <HeaderInfo/>
