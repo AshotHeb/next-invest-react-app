@@ -11,7 +11,7 @@ background: url(../../../public/images/background.png);
 background-repeat: no-repeat;
 background-position:right;
 background-size:auto;
-
+padding-top: 96px;
 }
 
 .stay-connected-section{
@@ -26,6 +26,7 @@ font-weight: 400;
 font-size: 14px;
 line-height: 36px;
 color: #193E6C;
+gap: 9px;
 
 }
 .h1{
@@ -37,7 +38,7 @@ line-height: 120%;
 width: 700px;
 letter-spacing: 0.02em;
 color: #094B72;
-
+padding-bottom: 46px;
 
 
 }
@@ -48,16 +49,26 @@ font-weight: 500;
 font-size: 24px;
 line-height: 158%;
 width: 590px;
-margin-top: 46px;
+margin-bottom: 35px;
 display: flex;
 align-items: center;
 letter-spacing: 0.5px;
 color: #4F4F4F;
 
+
 }
-.button{
-    width: 50px;
-}
+ .p2{
+margin-top:115px;
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+color: #8B8C8C;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+ }
 .girl-img{
 position: absolute;
 width: 549px;
@@ -66,4 +77,61 @@ left: 900px;
 top: -120px;
 
 
+}
+.logo-div{
+    width: 238px;
+    height: 88px;
+    padding-bottom: 46px;
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.logo{
+    
+    margin-top: 34px;
+
+}
+.small-batton{
+ width: 86px;
+height: 28px;
+background: #094B72;
+border-radius: 26.5px;
+font-size: 14px;
+color: #FFFFFF;
+border: none
+
+}
+.absolute-div{
+    position:absolute;
+    width: 382px;
+    height: 114px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    right: 60px;
+    bottom:-150px;
+    align-items: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.abs-p1{
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+color: #33475B;
+
+}
+.abs-p2{
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 36px;
+    text-align: center;
+    color: #87898C;
+    
 }
