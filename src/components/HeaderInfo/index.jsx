@@ -1,4 +1,5 @@
 import "./style.scss"
+import { Button } from "../Button"
 export const HeaderInfo=()=>{
     return(
         <div className="header-info-div">
@@ -9,7 +10,7 @@ export const HeaderInfo=()=>{
             
             <h1 className="h1">Your Solution   Legal Consultacy</h1>
             <p className="p1">We are here to help you take care of your legality with the best service especially for you.</p>
-            <button className="button"></button>
+           <Button/>
             <p className="p2"></p>
             <div className="group-25"></div>
             <img src="images/girl.png" alt="img" className="girl-img" />
